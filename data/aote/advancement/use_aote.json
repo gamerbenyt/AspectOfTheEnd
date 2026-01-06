@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:diamond_sword",
+          "predicates": {
+            "minecraft:custom_data": "{aote:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "aote:teleport_logic"
+  }
+}
