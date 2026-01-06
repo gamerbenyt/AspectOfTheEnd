@@ -1,0 +1,1 @@
+scoreboard objectives add aote_use minecraft.used:minecraft.warped_fungus_on_a_stick
